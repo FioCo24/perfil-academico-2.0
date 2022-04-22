@@ -30,6 +30,6 @@ Mi nombre es Fiorella Cordero Obando, tengo 18 años. Soy estudiante de segundo a
 
 ### Contacto
 - Fotografía:
-![Fiorella Cordero](C:\Users\Fiorela\OneDrive\Escritorio\PROCESAMIENTO 2022\mujer-pelirroja-estados-unidos.jpg)
+![Fiorella Cordero](mujer-pelirroja-estados-unidos.jpg)
 - Correo electrónico: fio89cordero@gmail.com  
 - Teléfono: +506 1896375890  
