@@ -1,13 +1,14 @@
 # **Curriculum Académico de Fiorella Cordero**  
 
 ### Datos de la estudiante  
-Mi nombre es Fiorella Cordero Obando, tengo 18 años. Soy estudiante de segundo año de Geografía y de primer año de Ingeniería Topográfica en la [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
+Mi nombre es Fiorella Cordero Obando, tengo 18 años. Soy estudiante de segundo año de Geografía y de primer año de Ingeniería Topográfica en la [Universidad de Costa Rica](https://www.ucr.ac.cr/).  
 
 ### Áreas de interés  
 1. Cartografía y [sistemas de información geográfica](https://www.aeroterra.com/es-ar/que-es-gis/introduccion)  
 2. Urbanismo y planificación urbana  
 3. Desarrollo cultural y social  
 4. Ambiente y [sostenibilidad](https://blog.oxfamintermon.org/definicion-de-sostenibilidad-sabes-que-es-y-sobre-que-trata/)  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Imagen_sint%C3%A9tica_de_Tenerife.jpg/640px-Imagen_sint%C3%A9tica_de_Tenerife.jpg)
 
 ### Idiomas
 1. Español (nativo)  
@@ -25,4 +26,10 @@ Mi nombre es Fiorella Cordero Obando, tengo 18 años. Soy estudiante de segundo a
 - Pensamiento Geográfico  
 - Fundamentos de Geología  
 - Procesamiento de Datos Geográficos  
-- Introducción a la Ingeniería Topográfica
+- Introducción a la Ingeniería Topográfica  
+
+### Contacto
+- Fotografía:
+![]("C:\Users\Fiorela\OneDrive\Escritorio\PROCESAMIENTO 2022\mujer-pelirroja-estados-unidos.jpg")
+- Correo electrónico: fio89cordero@gmail.com  
+- Teléfono: +506 1896375890  
