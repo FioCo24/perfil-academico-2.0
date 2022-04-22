@@ -8,7 +8,7 @@ Mi nombre es Fiorella Cordero Obando, tengo 18 años. Soy estudiante de segundo a
 2. Urbanismo y planificación urbana  
 3. Desarrollo cultural y social  
 4. Ambiente y [sostenibilidad](https://blog.oxfamintermon.org/definicion-de-sostenibilidad-sabes-que-es-y-sobre-que-trata/)  
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Imagen_sint%C3%A9tica_de_Tenerife.jpg/640px-Imagen_sint%C3%A9tica_de_Tenerife.jpg)
+![Cartografía y relieves](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Imagen_sint%C3%A9tica_de_Tenerife.jpg/640px-Imagen_sint%C3%A9tica_de_Tenerife.jpg)
 
 ### Idiomas
 1. Español (nativo)  
@@ -30,6 +30,6 @@ Mi nombre es Fiorella Cordero Obando, tengo 18 años. Soy estudiante de segundo a
 
 ### Contacto
 - Fotografía:
-![]("C:\Users\Fiorela\OneDrive\Escritorio\PROCESAMIENTO 2022\mujer-pelirroja-estados-unidos.jpg")
+![Fiorella Cordero](C:\Users\Fiorela\OneDrive\Escritorio\PROCESAMIENTO 2022\mujer-pelirroja-estados-unidos.jpg)
 - Correo electrónico: fio89cordero@gmail.com  
 - Teléfono: +506 1896375890  
