@@ -1,4 +1,4 @@
-# Perfil Académico de Fiorella Cordero
+# Curriculum Académico de Fiorella Cordero
 Estudiante de segundo año de Geografía y de primer año de Ingeniería Topográfica en la [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
 **Áreas de interés**  
 - Cartografía y sistemas de información geográfica  
