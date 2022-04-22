@@ -1,9 +1,9 @@
-# **Curriculum Acad√©mico de Fiorella Cordero**
-Estudiante de segundo a√±o de Geograf√≠a y de primer a√±o de Ingenier√≠a Topogr√°fica en la [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
+# **Curriculum AcadÈmico de Fiorella Cordero**
+Estudiante de segundo aÒo de GeografÌa y de primer aÒo de IngenierÌa Topogr·fica en la [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
 
-### √Åreas de inter√©s  
-1. Cartograf√≠a y [sistemas de informaci√≥n geogr√°fica](https://www.aeroterra.com/es-ar/que-es-gis/introduccion)  
-2. Urbanismo y planificaci√≥n urbana  
+### ¡reas de interÈs  
+1. CartografÌa y [sistemas de informaciÛn geogr·fica](https://www.aeroterra.com/es-ar/que-es-gis/introduccion)  
+2. Urbanismo y planificaciÛn urbana  
 3. Desarrollo cultural y social  
 4. Ambiente y [sostenibilidad](https://blog.oxfamintermon.org/definicion-de-sostenibilidad-sabes-que-es-y-sobre-que-trata/)  
 
@@ -23,4 +23,4 @@ Estudiante de segundo a√±o de Geograf√≠a y de primer a√±o de Ingenier√≠a Topogr√
 - Pensamiento Geogr·fico  
 - Fundamentos de GeologÌa  
 - Procesamiento de Datos Geogr·ficos  
-- IntroducciÛn a la IngenierÌa Topgr·fica
+- IntroducciÛn a la IngenierÌa Topogr·fica
