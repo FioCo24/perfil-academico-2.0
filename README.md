@@ -1,5 +1,7 @@
-# **Curriculum Académico de Fiorella Cordero**
-Estudiante de segundo año de Geografía y de primer año de Ingeniería Topográfica en la [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
+# **Curriculum Académico de Fiorella Cordero**  
+
+### Datos de la estudiante  
+Mi nombre es Fiorella Cordero Obando, tengo 18 años. Soy estudiante de segundo año de Geografía y de primer año de Ingeniería Topográfica en la [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
 
 ### Áreas de interés  
 1. Cartografía y [sistemas de información geográfica](https://www.aeroterra.com/es-ar/que-es-gis/introduccion)  
